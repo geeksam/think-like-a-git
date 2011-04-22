@@ -1,0 +1,11 @@
+{ 
+  "name": "Think Like (a) Git",
+  "sections": [
+    { "section": "intro" },
+    { "section": "graph_examples_1" },
+    { "section": "graph_examples_2" },
+    { "section": "graph_theory_1" },
+    { "section": "graph_theory_2" },
+        { "section": "finally_some_git" }
+  ]
+}

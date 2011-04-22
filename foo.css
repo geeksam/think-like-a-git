@@ -1,0 +1,26 @@
+.content {
+  font-size: 18pt;
+}
+
+blockquote {
+  margin: 10px 100px 10px 100px;
+  border-left: 2px solid #999;
+  padding-left: 20px;
+  text-align: left;
+}
+
+.wordy p {
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-bottom: 1em;
+}
+
+.aside {
+  font-size: 60%;
+}
+
+.centerme {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}

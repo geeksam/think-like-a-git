@@ -1,0 +1,9 @@
+.content ul li {
+  font-size: 36pt;
+/*  border: 1px solid red;*/
+}
+
+.content ul li ul li {
+  font-size: 18pt;
+  padding-bottom: 0px;
+}

@@ -1,0 +1,57 @@
+
+
+--
+
+What do I want people to take away from this?
+
+--
+
+Git is obscure, but very very powerful.
+- chainsaw quote?
+Most of Git's power comes from the way it looks at the world.
+  (Actually, it comes from the way *computer scientists* see the world.)
+That perspective can be taught.  (It's surprisingly easy to learn.)
+Once you understand that perspective, it's much easier to understand how Git works.
+- quotes from twitter
+- "Whoa"
+
+--
+
+Tools to cover:
+- git add
+- git commit
+
+Strategies for gaining confidence with Git:
+- Use a throwaway branch to test out an action
+- Use a visualizer (e.g., GitX)
+- When using a visualizer:
+  - predict what the result of your action will be
+  - act
+  - confirm your prediction
+
+My clip art:
+  morrison bridge
+  ladd's addition
+  Konigsberg bridges
+  Family tree
+  social network
+  facebook world map
+  ncaa tournament 2009 bracket
+  visual thesaurus
+
+
+------------------------------------------------------------
+Quotes
+------------------------------------------------------------
+KentBeck: "finally figuring out that git commands are strangely named graph manipulation commands--creating/deleting nodes, moving pointers around" - https://twitter.com/#!/KentBeck/status/42657237986054144
+
+Some Random Person: '"git gets easier once you get the basic idea that branches are homeomorphic endofunctors mapping submanifolds of a Hilbert space."' - https://twitter.com/#!/tabqwerty/status/45611899953491968
+
+------------------------------------------------------------
+Links
+------------------------------------------------------------
+
+Git for Ages 4 and Up - http://osdc.blip.tv/file/4441963
+
+http://cnsgittalk.timestream.net/wiki/Main_Page
+
