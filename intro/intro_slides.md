@@ -8,7 +8,7 @@
 * ![Git Makes More Sense When You](git_makes_more_sense_when_you.png)
 
 
-!SLIDE smbullets incremental
+!SLIDE smbullets incremental center
 ## Don't Fear The Git
 * My goal is to reduce your fear of Git...
 * ![Mindkiller](mindkiller.jpg)
