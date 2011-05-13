@@ -3,12 +3,12 @@
 ![](git-def.png)
 
 
-!SLIDE bullets incremental center
+!SLIDE bullets incremental
 ## Git is famously difficult to learn.
 * ![Git Makes More Sense When You](git_makes_more_sense_when_you.png)
 
 
-!SLIDE smbullets incremental center
+!SLIDE smbullets incremental
 ## Don't Fear The Git
 * My goal is to reduce your fear of Git...
 * ![Mindkiller](mindkiller.jpg)

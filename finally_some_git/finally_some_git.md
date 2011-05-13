@@ -1,20 +1,24 @@
 !SLIDE bullets incremental
-## Remember the <br />Takeaway Messager?
+## Remember the <br />Takeaway Message?
 
 * **Most of Git's power comes from <br /> the way it looks at the world.**
 * **Once you understand Git's perspective, <br /> it gets much easier to use.**
 
 
-!SLIDE center smbullets incremental
-* <img src="kent_beck_tweet.jpg">
-* <img src="homeomorphic_endofunctors.jpg">
+!SLIDE center
+<img src="kent_beck_tweet.jpg">
+
+!SLIDE center bullets incremental
+<img src="homeomorphic_endofunctors.jpg">
+
 * (This one's still a joke, though.)
-* <span class="aside">(I hope...)</span>
+* (I hope...)
 
 
 !SLIDE center
 ### Look familiar?
 <img src="git_merge_heck.png">
+Git merge heck
 
 
 !SLIDE bullets incremental
@@ -82,6 +86,7 @@ From the session description *(emphasis added)*:
     * (in fact, moving local branch refs is exactly what <code>git reset</code> is for!)
 * **Remote branch** references move when you fetch from (or push to) their repository.
 * **Tag** references don't move at all.
+    * (That, after all, is the ***entire point*** of a tag.)
 
 
 !SLIDE smbullets incremental center

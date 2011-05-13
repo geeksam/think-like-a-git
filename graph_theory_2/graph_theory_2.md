@@ -148,7 +148,7 @@ I mostly included it to define the "mathy" end of the continuum.
 
 !SLIDE smbullets incremental
 ## What's the Point?
-* For me, learning about graphs was like taking psychedelics: <br /> it changed the way I looked at the world.
+* For me, graph theory was like taking psychedelics: it changed the way I looked at the world.
 * <img src="whoa.png"> <br /> <span class="aside">(This slide probably says *way* more about me than you wanted to know.)</span>
 * Once I learned about graph theory, I started seeing graphs everywhere, and I wanted to share that experience with you.
 

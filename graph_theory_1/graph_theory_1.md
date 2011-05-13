@@ -17,6 +17,9 @@
 
 -AndyBean
 
+<br />
+(Note to people who are not my immediate coworkers: this is a series of in-jokes. <br />The image above depicts AndyBean, who has a pair of stun pants, <br /> "destroying a train of thought." <br />Trust me, it's bloody hilarious.)
+
 
 !SLIDE smbullets incremental
 ## From the Wikipedia page:
@@ -40,7 +43,7 @@
 </div>
 
 
-!SLIDE center smbullets incremental
+!SLIDE smbullets incremental
 ## Dude. I thought this was <br /> supposed to be about Git?
 * Trust me.
 * Remember this?
