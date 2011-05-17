@@ -25,13 +25,8 @@ Git merge heck
 ## A Git repository is a graph.
 <ul>
   <li>Every Git commit is a node.</li>
-  <li>
-    Each node* has at least one pointer to the node that came before it.
-    <ul>
-      <li>* (Except the root node.)</li>
-    </ul>
-  </li>
-  <li>Most commits point to one "parent" commit.</li>
+  <li>Nodes can point to other nodes <br />that came before them.</li>
+  <li>Most commits point to one parent commit.</li>
   <li>Merge commits point to two <br /> (or more!) parent commits.</li>
 </ul>
 
@@ -60,7 +55,7 @@ From the session description *(emphasis added)*:
 * Most Git operations do one of two things:
 <br /><br />&nbsp;
 * **Build commits** (nodes in the graph).
-* (Git does this as soon as you add files.)
+* (Git does this as soon as you stage files <br /> using "git add" or equivalent.)
 <br /><br />&nbsp;
 * **Move labels** from one node to another.
 * (When you type "git commit", you're just moving the label for that branch to the node Git created when you typed "git add".)
@@ -120,20 +115,20 @@ From the session description *(emphasis added)*:
 ## ...and?
 
 * When I first started using Git, I was really paranoid about losing code.
-* So, before I tried something tricky, I would back up *the entire directory.*
+* So, before I tried something tricky, <br />I would back up ***the entire directory.***
 
 
-!SLIDE commandline incremental
+!SLIDE commandline
 
 	$ cd ..
 	$ cp -r work backup
 	$ cd work
-	do something tricky
-	confirm that it worked
+	#do something tricky
+	#confirm that it worked
 	$ cd ..
 	$ rm -rf backup
 	$ cd work
-  move on to the next thing
+	#move on to the next thing
 
 
 !SLIDE bullets incremental

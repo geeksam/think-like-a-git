@@ -5,7 +5,22 @@
 
 !SLIDE bullets incremental
 ## Git is famously difficult to learn.
+* Once people achieve some level of <br />Git enlightenment, they tend to say things like <br />"Git makes more sense when you understand X."
 * ![Git Makes More Sense When You](git_makes_more_sense_when_you.png)
+* But that doesn't do much to help people staring up that learning curve. 
+
+
+!SLIDE center
+### Git makes more sense when you understand X <br /> (Part 1)
+![](kent_beck_tweet.jpg)
+
+
+!SLIDE center smbullets incremental
+### Git makes more sense when you understand X <br /> (Part 2)
+![](homeomorphic_endofunctors.jpg)
+
+* (Don't worry.  It's a joke.)
+* <span class="aside">(At least, I hope it is...)</span>
 
 
 !SLIDE smbullets incremental
@@ -19,6 +34,7 @@
 ## Takeaway Message
 * Git is obscure, but very very powerful.
 * Most of Git's power comes from <br /> the way it looks at the world.
+* That perspective can be taught.
 * Once you understand Git's perspective, <br /> it gets much easier to use.
 
 
@@ -51,12 +67,3 @@
 * (Look, a haiku!)
 
 
-!SLIDE center
-![](kent_beck_tweet.jpg)
-
-
-!SLIDE center smbullets incremental
-![](homeomorphic_endofunctors.jpg)
-
-* (Don't worry.  It's a joke.)
-* <span class="aside">(At least, I hope it is...)</span>
