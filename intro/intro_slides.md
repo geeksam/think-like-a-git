@@ -2,8 +2,7 @@
 # Think Like (a) Git!
 ![](git-def.png)
 ### <a href="http://resume.livingston-gray.com">Sam Livingston-Gray</a>
-#### geeksam@gmail.com
-#### Twitter: <a href="https://twitter.com/#!/geeksam">@geeksam</a>
+#### geeksam at: { <a href="https://github.com/geeksam/">Github</a>, <a href="https://twitter.com/#!/geeksam">Twitter</a>, <a href="mailto:geeksam@gmail.com">Gmail</a> }
 
 
 !SLIDE bullets incremental
