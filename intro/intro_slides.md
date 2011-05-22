@@ -1,6 +1,9 @@
 !SLIDE center
 # Think Like (a) Git!
 ![](git-def.png)
+### <a href="http://resume.livingston-gray.com">Sam Livingston-Gray</a>
+#### geeksam@gmail.com
+#### Twitter: <a href="https://twitter.com/#!/geeksam">@geeksam</a>
 
 
 !SLIDE bullets incremental
