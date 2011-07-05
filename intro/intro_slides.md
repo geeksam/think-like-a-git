@@ -25,7 +25,7 @@
 * <span class="aside">(At least, I hope it is...)</span>
 
 
-!SLIDE smbullets incremental
+!SLIDE smbullets incremental center
 ## Don't Fear The Git
 * My goal is to reduce your fear of Git...
 * ![Mindkiller](mindkiller.jpg)

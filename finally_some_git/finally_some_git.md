@@ -61,7 +61,7 @@ From the session description *(emphasis added)*:
 * (When you type "git commit", you're just moving the label for that branch to the node Git created when you typed "git add".)
 
 
-!SLIDE smbullets incremental
+!SLIDE smbullets incremental center
 ## Whaddaya mean, "move labels"?
 * ![Labels](labels.png)
 * GitX uses four colors for labels:
