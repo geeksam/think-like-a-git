@@ -1,3 +1,11 @@
+!SLIDE center bullets
+## This is a Showoff presentation
+* <a href="https://github.com/schacon/showoff">https://github.com/schacon/showoff</a>
+* Use arrow keys to navigate<br />(spacebar to go forward)
+* Press "z" for usage help
+
+
+
 !SLIDE center
 # Think Like (a) Git!
 ![](git-def.png)
